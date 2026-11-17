@@ -14,7 +14,7 @@ const PRODUCTS = {
   porkmince: { ru: 'Свиной фарш', no: 'svinekjøttdeig', cat: 0, kcal: 230, p: 17, f: 18, c: 0, fi: 0, price: 90, est: true },
   salmon: { ru: 'Лосось (филе, можно замороженное)', no: 'laksefilet', cat: 0, kcal: 200, p: 20, f: 13, c: 0, fi: 0, price: 230, est: true },
   cod: { ru: 'Треска (филе, можно замороженное)', no: 'torskefilet', cat: 0, kcal: 80, p: 18, f: 0.7, c: 0, fi: 0, price: 170, est: true },
-  tuna: { ru: 'Тунец в собственном соку', no: 'tunfisk i vann (boks 150 г)', cat: 0, kcal: 115, p: 26, f: 1, c: 0, fi: 0, price: 100, pack: 150 },
+  tuna: { ru: 'Тунец в собственном соку', no: 'tunfisk i vann (boks 150 g)', cat: 0, kcal: 115, p: 26, f: 1, c: 0, fi: 0, price: 100, pack: 150 },
   chickdeli: { ru: 'Куриное ассорти на хлеб', no: 'kyllingpålegg', cat: 0, kcal: 105, p: 17, f: 3, c: 1, fi: 0, price: 150, est: true },
   // Молочное и яйца
   egg: { ru: 'Яйца', no: 'egg', cat: 1, kcal: 145, p: 12.5, f: 10, c: 0.5, fi: 0, price: 82, pc: 55 },
@@ -65,7 +65,7 @@ const PRODUCTS = {
   chickpeas: { ru: 'Нут (консервы, без жидкости)', no: 'kikerter (boks)', cat: 4, kcal: 120, p: 7, f: 2, c: 17, fi: 6, price: 50, pack: 240, est: true },
   lentils: { ru: 'Чечевица красная (сухая)', no: 'røde linser', cat: 4, kcal: 340, p: 25, f: 1.5, c: 50, fi: 11, price: 40, est: true },
   hummus: { ru: 'Хумус', no: 'hummus', cat: 4, kcal: 250, p: 7.8, f: 15, c: 21, fi: 5.8, price: 80, est: true },
-  choptom: { ru: 'Томаты рубленые в банке', no: 'hakkede tomater (boks 400 г)', cat: 4, kcal: 20, p: 1, f: 0.2, c: 3, fi: 1, price: 30, pack: 400 },
+  choptom: { ru: 'Томаты рубленые в банке', no: 'hakkede tomater (boks 400 g)', cat: 4, kcal: 20, p: 1, f: 0.2, c: 3, fi: 1, price: 30, pack: 400 },
   corn: { ru: 'Кукуруза (консервы)', no: 'mais (boks)', cat: 4, kcal: 80, p: 2.5, f: 1, c: 15, fi: 2, price: 55, est: true },
   // Орехи, масла, прочее
   walnuts: { ru: 'Грецкие орехи', no: 'valnøtter', cat: 5, kcal: 654, p: 15, f: 65, c: 7, fi: 6.7, price: 225, est: true },
